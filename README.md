@@ -4,6 +4,7 @@
 - 💞️ I like to become a professional related to Artificial Intelligence
 - 📫 Contact me..
 -                 E-mail- suriyaseyon6@gmail.com
+-                 LinkedIn - Seyon Suriyakurmaran
 -                 Twitter - @seyonsuriya
 -                 Instagram - @seyonsuriya
 
