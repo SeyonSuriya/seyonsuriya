@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Seyon Suriyakumaran
 - 👀 I’m interested in Programming...
 - 🌱 I’m currently studying as B.Sc(Hons) Software Engineering undergraduate at University of Kelaniya Sri Lanka ...
-- 💞️ I like to become a professional related to Artificial Intelligence
+- 💞️ I like to become a professional related to CyberSecurity
 - 📫 Contact me..
 -                 E-mail- suriyaseyon6@gmail.com
 -                 LinkedIn - Seyon Suriyakurmaran
